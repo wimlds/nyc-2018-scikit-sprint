@@ -41,10 +41,14 @@ Join the [scikit-learn Gitter community]
 * [scikit-learn *Contributing* documentation](http://scikit-learn.org/stable/developers/contributing.html)
 * it is approximately 16 pages
 
-#### 4.  Review Open Issues 
+#### 4.  Review [Open Issues](https://github.com/scikit-learn/scikit-learn/issues) 
 * [scikit-learn repository](https://github.com/scikit-learn/scikit-learn)
-* There are over 1000 issues.  For the sprint, we will focus on issues with the labels:  **easy** and **Need Contributor**
-* go through some ['easy'-label open issues](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aissue+is%3Aopen+label%3AEasy) and become familiar with them 
+* There are over 1000 issues.  
+* For the sprint, we will focus on issues with the labels:  
+    - **easy**  (https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aissue+is%3Aopen+label%3AEasy)
+    - **good first issue** (https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aissue+is%3Aopen+label%3A"good+first+issue")
+    - **help wanted**
+* Go through the issues (with the above labels) and become familiar with them 
 
 ---
 
