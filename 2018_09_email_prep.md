@@ -28,9 +28,21 @@ This is the link to the WiMLDS channel:  https://gitter.im/scikit-learn/wimlds
 
 ### Preparation
 
-1.  Read through the [16 pages of Scikit-learn Contributing Documentation](http://scikit-learn.org/stable/developers/contributing.html)
+#### Contributing Documentation
+Read through the [16 pages of Scikit-learn Contributing Documentation](http://scikit-learn.org/stable/developers/contributing.html)
 https://gitter.im/scikit-learn/wimlds
-2.  There are over 1000 open issues.  For the sprint, we'll be focusing on those which are labeled "easy" and "Need Contributor".  Take some time (15-20 minutes) to look over some of these issues prior to the event:  https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aissue+is%3Aopen+label%3AEasy
+
+#### [Open Issues](https://github.com/scikit-learn/scikit-learn/issues) 
+* [scikit-learn repository](https://github.com/scikit-learn/scikit-learn)
+* There are over 1000 issues.  
+* For the sprint, we will focus on issues with the labels:  
+    - **easy**  (https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aissue+is%3Aopen+label%3AEasy)
+    - **good first issue** (https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aissue+is%3Aopen+label%3A"good+first+issue")
+    - **help wanted**
+* Go through the issues (with the above labels) and become familiar with them 
+
+---
+
 
 ### Food / Books
 
