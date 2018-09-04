@@ -3,7 +3,8 @@
 
 # Scikit-learn Sprint  
  
-* [WiMLDS Meetup Event (29-Sep-2018)](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/253593297/)  
+* [WiMLDS Meetup Event](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/253593297/)  
+* Date: 29-Sep-2018
 
 * Check out the interview:    
 [Interview with Andreas Mueller, Lecturer at Columbia University and Core Contributor to Scikit-Learn, by Reshama Shaikh](http://mlconf.com/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/)
@@ -19,7 +20,7 @@
 * [Nicolas Hug](https://www.linkedin.com/in/nicolas-hug/)
 
 #### Organizer:
-* Reshama Shaikh 
+* [Reshama Shaikh](https://reshamas.github.io) 
 
 ---
 
