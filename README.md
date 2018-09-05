@@ -15,12 +15,12 @@
 #### Host
 * [Andreas Mueller](https://www.linkedin.com/in/andreas-mueller-b370265a) (Twitter: [@amuellerml](https://twitter.com/amuellerml)) (Webpage:  [http://amueller.github.io/](http://amueller.github.io/))  
 
+#### Organizer
+* [Reshama Shaikh](https://reshamas.github.io) 
+
 #### Teaching Assistants  
 * [Theodora Hinkle](https://www.linkedin.com/in/theodora-hinkle-5b80a238/)
 * [Nicolas Hug](https://www.linkedin.com/in/nicolas-hug/)
-
-#### Organizer
-* [Reshama Shaikh](https://reshamas.github.io) 
 
 #### Helpers
 * [Noemi Derzsy](https://twitter.com/NoemiDerzsy)
