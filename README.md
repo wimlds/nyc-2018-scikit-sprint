@@ -38,8 +38,8 @@
 - review some Git resources prior to event 
 - we'll go over pull requests at beginning of event
 
-#### 2.  Join Gitter
-Join the [scikit-learn Gitter community]
+#### 2.  Join [Gitter](https://gitter.im)
+Join the scikit-learn Gitter community
 * [scikit-learn](https://gitter.im/scikit-learn/home)
 * [wimlds](https://gitter.im/scikit-learn/wimlds)
 
