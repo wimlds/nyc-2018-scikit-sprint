@@ -19,8 +19,14 @@
 * [Theodora Hinkle](https://www.linkedin.com/in/theodora-hinkle-5b80a238/)
 * [Nicolas Hug](https://www.linkedin.com/in/nicolas-hug/)
 
-#### Organizer:
+#### Organizer
 * [Reshama Shaikh](https://reshamas.github.io) 
+
+#### Helpers
+* [Noemi Derzsy](https://twitter.com/NoemiDerzsy)
+* [Laurence DeTorrente](https://twitter.com/LauTor83)
+* [Marina Piller](https://twitter.com/mgpiller)
+* [Carissa Shafto](https://twitter.com/carissa_shafto)
 
 ---
 
