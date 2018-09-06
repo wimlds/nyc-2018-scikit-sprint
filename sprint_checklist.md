@@ -15,26 +15,26 @@
 
 ## Event Details
 ### For Core Contributor
-- check budget / get funding (for food)
+-- check budget / get funding (for food)
 - [x] set Gitter channel for event
 - [x] advertise event via Twitter and newsletters
-- get Teaching Assistants
-- tag issues
-- bring scikit stickers to event
+- [ ] get Teaching Assistants
+- [ ] tag issues
+- [ ] bring scikit stickers to event
 
 ### For Organizer
 - [x] get up GitHub event repo
 - [x] recruit volunteers for event
-- get estimates for food / order food 
-- get stick-on nametags
-- send out prep/reminder email 2-3 days in advance
-- roster
+- [ ] get estimates for food / order food 
+- [ ] get stick-on nametags
+- [ ] send out prep/reminder email 2-3 days in advance
+- [ ] roster
 
 ## Day of Sprint
-- track pull requests 
+- [ ] track pull requests 
 
 ## Post-event
-- blog about event
-- follow up on pull requests
-- complete any outstanding work from sprint
-- Send "Thank you's" to all who helped
+- [ ] blog about event
+- [ ] follow up on pull requests
+- [ ] complete any outstanding work from sprint
+- [ ] Send "Thank you's" to all who helped
