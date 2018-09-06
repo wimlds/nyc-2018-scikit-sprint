@@ -12,10 +12,10 @@
 #### Sponsors  
 * Space Sponsored by **Stack Exchange**  
 
-#### Host
+### Host
 * [Andreas Mueller](https://www.linkedin.com/in/andreas-mueller-b370265a) (Twitter: [@amuellerml](https://twitter.com/amuellerml)) (Webpage:  [http://amueller.github.io/](http://amueller.github.io/))  
 
-#### Organizer
+### Organizer
 * [Reshama Shaikh](https://reshamas.github.io) 
 
 #### Teaching Assistants  
@@ -29,6 +29,12 @@
 * [Carissa Shafto](https://twitter.com/carissa_shafto)
 
 ---
+
+## Purpose of Sprint
+- widen the pool of open-source contributors
+- contribute to scikit-learn library
+- involve more women in scikit-learn and open source
+- build momentum for continued contribution
 
 ### Preparation
 
