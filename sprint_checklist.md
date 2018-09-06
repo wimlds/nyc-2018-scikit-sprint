@@ -2,6 +2,7 @@
 
 ## For Core Contributor & Organizer
 - [x] discuss event (capacity, dates, details)
+- [x] discuss prerequisites needed for participants
 - [x] discuss budget, who owns it
 - [x] set a date
 - [x] set up event description
