@@ -1,7 +1,7 @@
 
 
 <p float="left">
-  <img src="images/Logo-Blue-reduced.png" width="200" />
+  <img src="images/Logo-Blue-reduced.png" height="100" width="400" />
    <img  width="100" />
   <img src="images/scikit-learn-logo.png" width="200" /> 
 
