@@ -28,6 +28,7 @@
 - [x] get up GitHub event repo
 - [x] recruit volunteers for event
 - send out prep/reminder email 2-3 days in advance
+- roster
 
 ## Day of Sprint
 - track pull requests 
