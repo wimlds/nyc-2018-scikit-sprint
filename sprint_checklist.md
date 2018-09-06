@@ -1,5 +1,10 @@
 # Checklist for Sprint
 
+## Purpose of Sprint
+- widen the pool of open-source contributors
+- contribute to scikit-learn library
+- involve more women in scikit-learn and open source
+
 ## For Core Contributor & Organizer
 - [x] discuss event (capacity, dates, details)
 - [x] discuss prerequisites needed for participants
@@ -12,7 +17,8 @@
 - [x] announce event on Meetup (or EventBrite)
 - [x] advertise event via Twitter and newsletters
 
-## For Core Contributor
+## Event Details
+### For Core Contributor
 - check budget / get funding (for food)
 - [x] set Gitter channel for event
 - [x] advertise event via Twitter and newsletters
@@ -20,7 +26,7 @@
 - tag issues
 - bring scikit stickers to event
 
-## For Organizer: Event Details
+### For Organizer
 - get estimates for food / order food 
 - [x] get stick-on nametags
 - [x] get up GitHub event repo
