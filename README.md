@@ -20,10 +20,10 @@
 #### Sponsors  
 * Space Sponsored by **Stack Exchange**  
 
-### Host
+### Scikit Host
 * [Andreas Mueller](https://www.linkedin.com/in/andreas-mueller-b370265a) (Twitter: [@amuellerml](https://twitter.com/amuellerml)) (Webpage:  [http://amueller.github.io/](http://amueller.github.io/))  
 
-### Organizer
+### WiMLDS Host
 * [Reshama Shaikh](https://reshamas.github.io) 
 
 #### Teaching Assistants  
