@@ -1,7 +1,15 @@
-![wimlds](images/Logo-Blue-reduced.png)  
-![scikit](images/scikit-learn-logo.png)
 
-# Scikit-learn Sprint  
+
+<p float="left">
+  <img src="images/Logo-Blue-reduced.png" width="200" />
+   <img  width="100" />
+  <img src="images/scikit-learn-logo.png" width="200" /> 
+
+</p>
+
+
+
+# NYC WiMLDS / Scikit-learn Sprint  
  
 * [WiMLDS Meetup Event](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/253593297/)  
 * Date: 29-Sep-2018
