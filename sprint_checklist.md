@@ -4,6 +4,7 @@
 - widen the pool of open-source contributors
 - contribute to scikit-learn library
 - involve more women in scikit-learn and open source
+- build momentum for continued contribution
 
 ## For Core Contributor & Organizer
 - [x] discuss event (capacity, dates, details)
