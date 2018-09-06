@@ -15,7 +15,7 @@
 
 ## Event Details
 ### For Core Contributor
--- check budget / get funding (for food)
+- [x] check budget / get funding (for food)
 - [x] set Gitter channel for event
 - [x] advertise event via Twitter and newsletters
 - [ ] get Teaching Assistants
