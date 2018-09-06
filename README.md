@@ -36,7 +36,7 @@
 - involve more women in scikit-learn and open source
 - build momentum for continued contribution
 
-### Preparation
+## Preparation
 
 #### 1.  GitHub Account
 - Open an account on [GitHub](https://github.com/)
