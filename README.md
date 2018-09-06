@@ -40,18 +40,18 @@
 ---
 
 ## Purpose of Sprint
-- widen the pool of open-source contributors
-- contribute to scikit-learn library
-- involve more women in scikit-learn and open source
-- build momentum for continued contribution
+- Widen the pool of open-source contributors
+- Contribute to scikit-learn library
+- Involve more women in scikit-learn and open source
+- Build momentum for continued contribution
 
 ## Preparation
 
 #### 1.  GitHub Account
 - Open an account on [GitHub](https://github.com/)
-- some familiarity with Git / GitHub 
-- review some Git resources prior to event 
-- we'll go over pull requests at beginning of event
+- Some familiarity with Git / GitHub 
+- Review some Git resources prior to event 
+- We will go over pull requests at beginning of event
 
 #### 2.  Join [Gitter](https://gitter.im)
 Join the scikit-learn Gitter community
@@ -60,7 +60,7 @@ Join the scikit-learn Gitter community
 
 #### 3.  Read thru documentation 
 * [scikit-learn *Contributing* documentation](http://scikit-learn.org/stable/developers/contributing.html)
-* it is approximately 16 pages
+* It is approximately 16 pages
 
 #### 4.  Review [Open Issues](https://github.com/scikit-learn/scikit-learn/issues) 
 * [scikit-learn repository](https://github.com/scikit-learn/scikit-learn)
