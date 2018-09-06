@@ -23,10 +23,10 @@
 - bring scikit stickers to event
 
 ### For Organizer
-- get estimates for food / order food 
-- [x] get stick-on nametags
 - [x] get up GitHub event repo
 - [x] recruit volunteers for event
+- get estimates for food / order food 
+- get stick-on nametags
 - send out prep/reminder email 2-3 days in advance
 - roster
 
