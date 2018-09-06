@@ -17,8 +17,9 @@
 * Check out the interview:    
 [Interview with Andreas Mueller, Lecturer at Columbia University and Core Contributor to Scikit-Learn, by Reshama Shaikh](http://mlconf.com/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/)
 
-#### Sponsors  
+### Sponsors  
 * Space Sponsored by **Stack Exchange**  
+* Funding by National Science Foundation
 
 ### Scikit Host
 * [Andreas Mueller](https://www.linkedin.com/in/andreas-mueller-b370265a) (Twitter: [@amuellerml](https://twitter.com/amuellerml)) (Webpage:  [http://amueller.github.io/](http://amueller.github.io/))  
