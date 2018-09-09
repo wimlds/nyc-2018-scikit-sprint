@@ -9,7 +9,7 @@
 
 
 
-# NYC WiMLDS / Scikit-learn Sprint  
+# 2nd Annual NYC WiMLDS / Scikit-learn Sprint  
  
 * [WiMLDS Meetup Event](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/253593297/)  
 * Date: 29-Sep-2018
@@ -26,7 +26,6 @@ Thank you for helping make this a welcoming, friendly community for all.  Please
 
 ### Sponsors  
 * Space Sponsored by **Stack Exchange**  
-* Funding by National Science Foundation
 
 ### Scikit Host
 * [Andreas Mueller](https://www.linkedin.com/in/andreas-mueller-b370265a) (Twitter: [@amuellerml](https://twitter.com/amuellerml)) (Webpage:  [http://amueller.github.io/](http://amueller.github.io/))  
