@@ -30,8 +30,8 @@ Thank you for helping make this a welcoming, friendly community for all.  Please
 ### Scikit Host
 * Andy Mueller
   - LinkedIn: [Andreas Mueller](https://www.linkedin.com/in/andreas-mueller-b370265a)
-  - Twitter: [@amuellerml](https://twitter.com/amuellerml)) 
-  - Webpage:  [http://amueller.github.io/](http://amueller.github.io/)
+  - Twitter: [@amuellerml](https://twitter.com/amuellerml)
+  - Website:  [http://amueller.github.io/](http://amueller.github.io/)
 
 ### WiMLDS Host
 * [Reshama Shaikh](https://reshamas.github.io) 
