@@ -28,7 +28,10 @@ Thank you for helping make this a welcoming, friendly community for all.  Please
 * Space Sponsored by **Stack Exchange**  
 
 ### Scikit Host
-* [Andreas Mueller](https://www.linkedin.com/in/andreas-mueller-b370265a) (Twitter: [@amuellerml](https://twitter.com/amuellerml)) (Webpage:  [http://amueller.github.io/](http://amueller.github.io/))  
+* Andy Mueller
+  - LinkedIn: [Andreas Mueller](https://www.linkedin.com/in/andreas-mueller-b370265a)
+  - Twitter: [@amuellerml](https://twitter.com/amuellerml)) 
+  - Webpage:  [http://amueller.github.io/](http://amueller.github.io/)
 
 ### WiMLDS Host
 * [Reshama Shaikh](https://reshamas.github.io) 
