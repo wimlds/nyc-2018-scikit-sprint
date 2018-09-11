@@ -101,6 +101,12 @@ Please feel free to take photos and tweet about the event.
 
 - Nicolas Hug: [@hug_nicolas](https://twitter.com/hug_nicolas)
 
+#### Tweets from 2017, First WiMLDS / Scikit Sprint
+- https://twitter.com/LauTor83/status/838141472671137792
+- https://twitter.com/wimlds/status/838069682892591105
+- https://twitter.com/LauTor83/status/838071558321147905
+- https://twitter.com/amuellerml/status/838186956022513665
+
 #### Hashtags
 
 - #opensource
