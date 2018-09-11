@@ -109,4 +109,5 @@ Please feel free to take photos and tweet about the event.
 
 #### Hashtags
 
+- #ScikitSprint
 - #opensource
