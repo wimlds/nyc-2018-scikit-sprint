@@ -89,11 +89,17 @@ Please feel free to take photos and tweet about the event.
 
 - Stack Exchange: [@StackExchange](https://twitter.com/StackExchange)
 
-- Andreas Mueller:  [@amuellerml](https://twitter.com/amuellerml)
-
 - scikit-learn:  [@scikit_learn](https://twitter.com/scikit_learn)
 
+#### Twitter People
+
+- Andreas Mueller:  [@amuellerml](https://twitter.com/amuellerml)
+
 - Reshama Shaikh: [@reshamas](https://twitter.com/reshamas)
+
+- Theodora Hinkle: [@acornthea](https://twitter.com/acornthea)
+
+- Nicolas Hug: [@hug_nicolas](https://twitter.com/hug_nicolas)
 
 #### Hashtags
 
