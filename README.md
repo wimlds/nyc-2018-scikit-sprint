@@ -72,8 +72,8 @@ Join the scikit-learn Gitter community
 * [scikit-learn repository](https://github.com/scikit-learn/scikit-learn)
 * There are over 1000 issues.  
 * For the sprint, we will focus on issues with the labels:  
-    - **easy**  (https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aissue+is%3Aopen+label%3AEasy)
-    - **good first issue** (https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aissue+is%3Aopen+label%3A"good+first+issue")
+    - [easy](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aissue+is%3Aopen+label%3AEasy)
+    - [good first issue](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aissue+is%3Aopen+label%3A"good+first+issue")
     - **help wanted**
 * Go through the issues (with the above labels) and become familiar with them 
 
