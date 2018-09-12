@@ -33,7 +33,7 @@
 ### Sponsors  
 * Space Sponsored by **Stack Exchange**  
 
-### scikit-learn Host
+### Scikit-learn Host
 * Andy Mueller
   - LinkedIn: [Andreas Mueller](https://www.linkedin.com/in/andreas-mueller-b370265a)
   - Twitter: [@amuellerml](https://twitter.com/amuellerml)
@@ -42,11 +42,11 @@
 ### WiMLDS Host
 * [Reshama Shaikh](https://reshamas.github.io) 
 
-#### Teaching Assistants  
+### Teaching Assistants  
 * [Theodora Hinkle](https://www.linkedin.com/in/theodora-hinkle-5b80a238/)
 * [Nicolas Hug](https://www.linkedin.com/in/nicolas-hug/)
 
-#### Helpers
+### Helpers
 * [Noemi Derzsy](https://twitter.com/NoemiDerzsy)
 * [Laurence DeTorrente](https://twitter.com/LauTor83)
 * [Marina Piller](https://twitter.com/mgpiller)
