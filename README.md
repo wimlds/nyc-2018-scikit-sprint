@@ -18,10 +18,10 @@
 * Background: [Interview with Andreas Mueller, Core Contributor to Scikit-Learn](http://mlconf.com/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/)
 
 ## AGENDA
-- 9:30am - 10:00am: Arrive early for technical support
-- 10:00am - 1:00pm: Sprint
-- 1:00pm - 2:00pm: Lunch will be provided
-- 2:00pm - 4:00pm: Sprint
+- 9:30 am - 10 am: Arrive early for technical support
+- 10 am - 1 pm: Sprint
+- 1 pm - 2 pm: Lunch will be provided
+- 2 pm - 4 pm: Sprint
 
 ----
 ## Code of Conduct
