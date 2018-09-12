@@ -55,7 +55,7 @@
 ## Purpose of Sprint
 - Widen the pool of open-source contributors
 - Contribute to scikit-learn library
-- Involve more women in scikit-learn and open source
+- Involve more women and gender minorities in scikit-learn and open source
 - Build momentum for continued contribution
 
 ## Preparation
