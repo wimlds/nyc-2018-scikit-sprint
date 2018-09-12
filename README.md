@@ -74,8 +74,7 @@ Join the scikit-learn Gitter community
 * [scikit-learn](https://gitter.im/scikit-learn/home)
 * [wimlds](https://gitter.im/scikit-learn/wimlds)
 
-#### 3.  Read thru documentation 
-* [scikit-learn *Contributing* documentation](http://scikit-learn.org/stable/developers/contributing.html)
+#### 3.  Read thru [scikit-learn Contributing documentation](http://scikit-learn.org/stable/developers/contributing.html)
 * It is approximately 16 pages
 
 #### 4.  Review [Open Issues](https://github.com/scikit-learn/scikit-learn/issues) 
