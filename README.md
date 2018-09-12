@@ -16,7 +16,7 @@
 * [NYC WiMLDS Meetup Event](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/253593297/)  
 * 29-Sep-2018
 
-* Check out the interview:    
+* Background:   
 [Interview with Andreas Mueller, Core Contributor to Scikit-Learn](http://mlconf.com/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/), by Reshama Shaikh
 
 ----
