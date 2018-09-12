@@ -14,10 +14,10 @@
 # 2nd Annual NYC WiMLDS / Scikit-learn Sprint  
  
 * [WiMLDS Meetup Event](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/253593297/)  
-* Date: 29-Sep-2018
+* 29-Sep-2018
 
 * Check out the interview:    
-[Interview with Andreas Mueller, Lecturer at Columbia University and Core Contributor to Scikit-Learn, by Reshama Shaikh](http://mlconf.com/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/)
+[Interview with Andreas Mueller, Core Contributor to Scikit-Learn](http://mlconf.com/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/), by Reshama Shaikh
 
 ----
 ### Code of Conduct
