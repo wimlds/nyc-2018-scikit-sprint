@@ -20,7 +20,7 @@
 [Interview with Andreas Mueller, Core Contributor to Scikit-Learn](http://mlconf.com/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/), by Reshama Shaikh
 
 ----
-### Code of Conduct
+## Code of Conduct
 **WiMLDS is dedicated to providing a harassment-free experience for everyone.** We do not tolerate harassment of participants in any form. All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate.
 
 **Be kind to others.** Do not insult or put down others. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.
@@ -28,6 +28,8 @@
 **Thank you for helping make this a welcoming, friendly community for all.**  Please read the full [**Code of Conduct**](https://github.com/WiMLDS/starter-kit/wiki/Code-of-conduct) before participating.  
 
 ---
+## The Team
+
 ### Sponsors  
 * Space Sponsored by **Stack Exchange**  
 
@@ -60,24 +62,24 @@
 
 ## Preparation
 
-#### 1.  GitHub Account
+### 1.  GitHub Account
 - Open an account on [GitHub](https://github.com/)
 - [Git should be installed](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - Some familiarity with Git / GitHub 
 - Prior to event, review some [Git resources](https://github.com/reshamas/git-intro-workshop/blob/master/extra_resources/resource_git_tutorials.md) 
 - We will go over pull requests at beginning of event
 
-#### 2.  Join [Gitter](https://gitter.im)
+### 2.  Join [Gitter](https://gitter.im)
 Gitter is an open source instant messaging and chat room system for developers and users of GitHub repositories.  
 
 Join the scikit-learn Gitter community
 * [scikit-learn](https://gitter.im/scikit-learn/home)
 * [wimlds](https://gitter.im/scikit-learn/wimlds)
 
-#### 3.  Read thru [scikit-learn Contributing documentation](http://scikit-learn.org/stable/developers/contributing.html)
+### 3.  Read thru [scikit-learn Contributing documentation](http://scikit-learn.org/stable/developers/contributing.html)
 * It is approximately 16 pages
 
-#### 4.  Review [Open Issues](https://github.com/scikit-learn/scikit-learn/issues) 
+### 4.  Review [Open Issues](https://github.com/scikit-learn/scikit-learn/issues) 
 * [scikit-learn repository](https://github.com/scikit-learn/scikit-learn)
 * There are over 1000 issues :sweat:
 * For the sprint, we will focus on issues with the labels:  
@@ -88,7 +90,7 @@ Join the scikit-learn Gitter community
 
 ---
 
-### Twitter
+## Twitter
 
 Please feel free to take photos and tweet about the event.
 
@@ -100,7 +102,7 @@ Please feel free to take photos and tweet about the event.
 
 - scikit-learn:  [@scikit_learn](https://twitter.com/scikit_learn)
 
-#### Twitter People
+### Twitter People
 
 - Andreas Mueller:  [@amuellerml](https://twitter.com/amuellerml)
 
@@ -114,13 +116,13 @@ Please feel free to take photos and tweet about the event.
 
 - Laurence DeTorrente:  [@LauTor83](https://twitter.com/LauTor83)
 
-#### Tweets from 2017: First NYC WiMLDS / Scikit Sprint
+### Tweets from 2017: First NYC WiMLDS / Scikit Sprint
 - https://twitter.com/LauTor83/status/838141472671137792
 - https://twitter.com/wimlds/status/838069682892591105
 - https://twitter.com/LauTor83/status/838071558321147905
 - https://twitter.com/amuellerml/status/838186956022513665
 
-#### Hashtags
+### Hashtags
 
 - #ScikitSprint
 - #opensource
