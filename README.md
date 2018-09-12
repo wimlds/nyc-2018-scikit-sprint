@@ -25,7 +25,7 @@
 
 **Be kind to others.** Do not insult or put down others. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.
 
-Thank you for helping make this a welcoming, friendly community for all.  Please read the full [code of conduct](https://github.com/WiMLDS/starter-kit/wiki/Code-of-conduct) before participating.  
+Thank you for helping make this a welcoming, friendly community for all.  Please read the full [**Code of Conduct**](https://github.com/WiMLDS/starter-kit/wiki/Code-of-conduct) before participating.  
 
 ---
 ### Sponsors  
