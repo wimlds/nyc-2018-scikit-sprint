@@ -1,6 +1,8 @@
 
-
+![test](images/blue_logo_full.png)
+  
 <p float="left">
+  <img src="images/blue_logo_full.png"  />
   <img src="images/Logo-Blue-reduced.png" height="100" width="400" />
    <img  width="100" />
   <img src="images/scikit-learn-logo.png" width="200" /> 
