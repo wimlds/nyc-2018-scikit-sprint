@@ -94,6 +94,8 @@ Join the scikit-learn Gitter community
 
 Please feel free to take photos and tweet about the event.
 
+### Groups
+
 - WiMLDS NYC:  [WiMLDS_NYC](https://twitter.com/WiMLDS_NYC)
 
 - WiMLDS:  [@wimlds](https://twitter.com/wimlds)
@@ -102,7 +104,7 @@ Please feel free to take photos and tweet about the event.
 
 - scikit-learn:  [@scikit_learn](https://twitter.com/scikit_learn)
 
-### Twitter People
+### People
 
 - Andreas Mueller:  [@amuellerml](https://twitter.com/amuellerml)
 
