@@ -9,6 +9,7 @@
 </p>
 
 
+---
 
 # 2nd Annual NYC WiMLDS / Scikit-learn Sprint  
  
@@ -18,6 +19,7 @@
 * Check out the interview:    
 [Interview with Andreas Mueller, Lecturer at Columbia University and Core Contributor to Scikit-Learn, by Reshama Shaikh](http://mlconf.com/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/)
 
+----
 ### Code of Conduct
 **WiMLDS is dedicated to providing a harassment-free experience for everyone.** We do not tolerate harassment of participants in any form. All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate.
 
@@ -25,6 +27,7 @@
 
 Thank you for helping make this a welcoming, friendly community for all.  Please read the full [code of conduct](https://github.com/WiMLDS/starter-kit/wiki/Code-of-conduct) before participating.  
 
+---
 ### Sponsors  
 * Space Sponsored by **Stack Exchange**  
 
