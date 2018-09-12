@@ -118,7 +118,8 @@ Please feel free to take photos and tweet about the event.
 
 - Laurence DeTorrente:  [@LauTor83](https://twitter.com/LauTor83)
 
-### Tweets from 2017: First NYC WiMLDS / Scikit Sprint
+### Info from 2017 event: First NYC WiMLDS / Scikit Sprint
+- Blog:  [2017 scikit-learn sprint](http://wimlds.org/noemi-derzsy-scikit-learn-sprint/) by Noemi Derzsy
 - https://twitter.com/LauTor83/status/838141472671137792
 - https://twitter.com/wimlds/status/838069682892591105
 - https://twitter.com/LauTor83/status/838071558321147905
