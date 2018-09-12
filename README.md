@@ -18,6 +18,12 @@
 
 * Background: [Interview with Andreas Mueller, Core Contributor to Scikit-Learn](http://mlconf.com/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/)
 
+## AGENDA
+- 9:30am - 10:00am: Arrive early for technical support
+- 10:00am - 1:00pm: Sprint
+- 1:00pm - 2:00pm: Lunch will be provided
+- 2:00pm - 4:00pm: Sprint
+
 ----
 ## Code of Conduct
 **WiMLDS is dedicated to providing a harassment-free experience for everyone.** We do not tolerate harassment of participants in any form. All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate.
@@ -59,6 +65,8 @@
 - Contribute to scikit-learn library
 - Involve more women and gender minorities in scikit-learn and open source
 - Build momentum for continued contribution
+
+---
 
 ## Preparation
 
