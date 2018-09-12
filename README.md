@@ -62,11 +62,14 @@ Thank you for helping make this a welcoming, friendly community for all.  Please
 
 #### 1.  GitHub Account
 - Open an account on [GitHub](https://github.com/)
+- [Git should be installed](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - Some familiarity with Git / GitHub 
-- Review some Git resources prior to event 
+- Prior to event, review some [Git resources](https://github.com/reshamas/git-intro-workshop/blob/master/extra_resources/resource_git_tutorials.md) 
 - We will go over pull requests at beginning of event
 
 #### 2.  Join [Gitter](https://gitter.im)
+Gitter is an open source instant messaging and chat room system for developers and users of GitHub repositories.  
+
 Join the scikit-learn Gitter community
 * [scikit-learn](https://gitter.im/scikit-learn/home)
 * [wimlds](https://gitter.im/scikit-learn/wimlds)
