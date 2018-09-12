@@ -70,7 +70,7 @@
 - We will go over pull requests at beginning of event
 
 ### 2.  Join [Gitter](https://gitter.im)
-Gitter is an open source instant messaging and chat room system for developers and users of GitHub repositories.  
+Gitter is an open source instant messaging and chat room system for developers and users of GitHub repositories.  You can use your GitHub ID to sign in. 
 
 Join the scikit-learn Gitter community
 * [scikit-learn](https://gitter.im/scikit-learn/home)
