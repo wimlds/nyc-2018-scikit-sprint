@@ -17,7 +17,7 @@
 
 * Background: [Interview with Andreas Mueller, Core Contributor to Scikit-Learn](http://mlconf.com/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/)
 
-## AGENDA
+## Schedule
 - 9:30 am - 10 am: Arrive early for technical support
 - 10 am - 1 pm: Sprint
 - 1 pm - 2 pm: Lunch will be provided
