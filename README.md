@@ -100,7 +100,7 @@ Join the scikit-learn Gitter community
 ## Day of Sprint
 
 ### 1.  Hardware
-Bring your laptop and charger
+Bring your laptop and charger.
 
 ### 2.  Nametags
 We will have stick-on nametags.  Make sure to wear one to network with other attendees.  Feel free to add your preferred pronoun and institution affiliation. 
