@@ -97,6 +97,19 @@ Join the scikit-learn Gitter community
 
 ---
 
+## Day of Sprint
+
+### 1.  Hardware
+Bring your laptop and charger
+
+### 2.  Nametags
+We will have stick-on nametags.  Make sure to wear one to network with other attendees.  Feel free to add your preferred pronoun and institution affiliation. 
+
+### 3.  Taking Notes for Blog
+If you would like to blog about the event, email me (reshama@wimlds.org) and I would be happy to share and promote the blog with our community. 
+
+---
+
 ## Twitter
 
 Please feel free to take photos and tweet about the event.
