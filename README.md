@@ -67,6 +67,13 @@
 
 ---
 
+## Goals for the Day
+- The plan is to work in pairs. 
+- The goal is that each participant will be able to resolve one trivial fix and one actual fix.
+
+
+---
+
 ## Preparation
 
 ### 1.  GitHub Account
