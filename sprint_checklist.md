@@ -18,7 +18,7 @@
 - [x] check budget / get funding (for food)
 - [x] set Gitter channel for event
 - [x] advertise event via Twitter and newsletters
-- [ ] get Teaching Assistants
+- [x] get Teaching Assistants
 - [ ] tag issues
 - [ ] bring scikit stickers to event
 
@@ -26,9 +26,11 @@
 - [x] get up GitHub event repo
 - [x] recruit volunteers for event
 - [ ] get estimates for food / order food 
-- [ ] get stick-on nametags
+- [x] get stick-on nametags
 - [ ] send out prep/reminder email 2-3 days in advance
 - [ ] roster
+- [ ] bring marker for nametags
+- [ ] camera
 
 ## Day of Sprint
 - [ ] track pull requests 
