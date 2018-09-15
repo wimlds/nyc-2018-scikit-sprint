@@ -32,7 +32,7 @@ The best way to utilize this Saturday event is to prepare well in advance.
 
 I will also place a copy of this email within the GitHub repo for easy reference.  Looking forward to seeing you all. 
 
-Cheers,
+Cheers,  
 Reshama
 
  
