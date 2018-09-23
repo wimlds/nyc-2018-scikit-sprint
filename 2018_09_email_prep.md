@@ -1,6 +1,8 @@
 Hi Everyone,
 
-We are very excited to host the **2nd Annual WiMLDS/ scikit-learn open source sprint** and have you join us for a day of learning and contributing to a critical Python machine learning library!  
+We are very excited to host the **2nd Annual WiMLDS/ scikit-learn open source sprint** and have you join us for a day of learning and contributing to a critical Python machine learning library!  We also think it will be day of fun and meeting new people.    
+
+Special thanks for StackExchange for sponsoring their space on a Saturday.
 
 ## Pre-event Reminders
 
