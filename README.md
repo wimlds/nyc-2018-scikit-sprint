@@ -37,6 +37,7 @@
 ### Sponsors  
 * Space Sponsored by **Stack Exchange**  
 * Host:  [Elyse Tanzillo](https://www.linkedin.com/in/elyse-tanzillo-170b796/)
+* Facilitated by:  [Ilana Yitzhaki](https://www.linkedin.com/in/ilana-seagull-yitzhaki-944b5742/)
 
 ### Scikit-learn Host
 * Andy Mueller
