@@ -53,8 +53,8 @@
 * [Nicolas Hug](https://www.linkedin.com/in/nicolas-hug/)
 
 ### Helpers
-* [Noemi Derzsy](https://twitter.com/NoemiDerzsy)
 * [Laurence DeTorrente](https://twitter.com/LauTor83)
+* [Noemi Derzsy](https://twitter.com/NoemiDerzsy)
 * [Marina Piller](https://twitter.com/mgpiller)
 * [Carissa Shafto](https://twitter.com/carissa_shafto)
 
