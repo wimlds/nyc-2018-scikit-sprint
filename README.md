@@ -35,7 +35,7 @@
 ## The Team
 
 ### Sponsors  
-* Space Sponsored by **Stack Exchange** ---->  the are hiring!  [Check out open positions](https://stackoverflow.com/company/work-here)
+* Space Sponsored by **Stack Exchange** ---->  is hiring!  [Check out open positions](https://stackoverflow.com/company/work-here)
 * Host:  [Elyse Tanzillo](https://www.linkedin.com/in/elyse-tanzillo-170b796/)
 * Facilitated by:  [Ilana Yitzhaki](https://www.linkedin.com/in/ilana-seagull-yitzhaki-944b5742/)
 
