@@ -19,18 +19,18 @@
 - [x] set Gitter channel for event
 - [x] advertise event via Twitter and newsletters
 - [x] get Teaching Assistants
-- [ ] tag issues
+- [x] tag issues
 - [ ] bring scikit stickers to event
 
 ### For Organizer
 - [x] get up GitHub event repo
 - [x] recruit volunteers for event
-- [ ] get estimates for food / order food 
+- [x] get estimates for food / order food 
 - [x] get stick-on nametags
-- [ ] send out prep/reminder email 2-3 days in advance
-- [ ] roster
-- [ ] bring marker for nametags
-- [ ] camera
+- [x] send out prep/reminder email 2-3 days in advance
+- [x] roster
+- [x] bring marker for nametags
+- [x] camera
 
 ## Day of Sprint
 - [ ] track pull requests 
