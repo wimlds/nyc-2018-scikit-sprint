@@ -104,6 +104,9 @@ Join the scikit-learn Gitter community
     - [help wanted](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aissue+is%3Aopen+label%3A"help+wanted")
 * Go through the issues (with the above labels) and become familiar with them 
 
+### 5.  Curated List of Issues
+- https://docs.google.com/document/d/1dgEPcGnbfs6DRs7qtZMkbF6mLP6cywfn46rMFGRmTQg/edit?usp=sharing
+
 ---
 
 ## Day of Sprint
