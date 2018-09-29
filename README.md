@@ -89,8 +89,8 @@
 Gitter is an open source instant messaging and chat room system for developers and users of GitHub repositories.  You can use your GitHub ID to sign in. 
 
 Join the scikit-learn Gitter community
-* [scikit-learn/home](https://gitter.im/scikit-learn/home)
-* [scikit-learn/wimlds](https://gitter.im/scikit-learn/wimlds)
+* [gitter.im/scikit-learn/home](https://gitter.im/scikit-learn/home)
+* [gitter.im/scikit-learn/wimlds](https://gitter.im/scikit-learn/wimlds)
 
 ### 3.  Read thru [scikit-learn Contributing documentation](http://scikit-learn.org/stable/developers/contributing.html)
 * It is approximately 16 pages
