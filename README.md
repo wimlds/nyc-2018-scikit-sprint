@@ -12,6 +12,8 @@
 ---
 
 # 2nd Annual NYC WiMLDS / Scikit-learn Sprint  
+
+* [Highlights from 2018 WiMLDS NYC / Scikit Sprint](https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint/)
  
 * [NYC WiMLDS Meetup Event](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/253593297/) on 29-Sep-2018
 
