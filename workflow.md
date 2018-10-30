@@ -47,10 +47,9 @@ git fetch https://github.com/theirusername/reponame.git theirbranch:ourbranch
 
 ## PART D:  Fixing issue
 - Explore and fix issue.  This will take the majority of time (!)
-
+- Make updates to file
 
 ## PART E:  Committing change 
-- Make updates to file
 
 #### Create feature branch
 
