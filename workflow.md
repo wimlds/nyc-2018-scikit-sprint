@@ -28,11 +28,11 @@ scorer.py:190:80: E501 line too long (87 > 79 characters)
 # Workflow for Open Source
 
 ## Set up work environment:  "virtual environment"
-```python
+```bash
 conda create -n sklearndev numpy scipy matplotlib pytest sphinx cython ipykernel
 ```
 Activate virtual environment:  
-```python
+```bash
 source activate sklearndev
 ```
 
@@ -43,11 +43,25 @@ source activate sklearndev
 3.  Fork repo:  https://github.com/scikit-learn/scikit-learn
 4.  Set up local repo ready:  
 Note:  for `git clone`, add your forked repo url.  
-```python
+```bash
 git clone https://github.com/reshamas/scikit-learn.git
 git remote add upstream https://github.com/scikit-learn/scikit-learn.git
 ```
-
+check remotes are there using `git remote -v`
+```bash
+origin	https://github.com/reshamas/scikit-learn.git (fetch)
+origin	https://github.com/reshamas/scikit-learn.git (push)
+upstream	https://github.com/scikit-learn/scikit-learn.git (fetch)
+upstream	https://github.com/scikit-learn/scikit-learn.git (push)
+```
+5.  Update local repo
+```bash
+git pull upstream master
+```
+6. Fetch someone else's PR:
+```bash
+git fetch https://github.com/theirusername/reponame.git theirbranch:ourbranch
+```
 
 ## PART B:  Fixing Issue
 
@@ -58,17 +72,17 @@ git remote add upstream https://github.com/scikit-learn/scikit-learn.git
 
 1.  Make updates to file
 2.  Create feature branch
-```python
+```bash
 git checkout -b <feature_branch>
 ```
 3.  Commit changes to branch
-```python
+```bash
 git add <file_name>
 git commit -m 'description for fix'
 git push origin <feature_branch>
 ```
 4.  Run formatting tests (using flake8)
-```python
+```bash
 flake8 file_name
 ```
 5.  Run other tests?   (GMM, regression)
