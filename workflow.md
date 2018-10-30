@@ -21,13 +21,19 @@ source activate sklearndev
 ### Fork repo:  https://github.com/scikit-learn/scikit-learn
 
 ### Set up local repo  
-#### Note:  for `git clone`, add your forked repo url.  
+#### `git clone` your forked repo url.  
 ```bash
 git clone https://github.com/reshamas/scikit-learn.git
+```
+
+#### Add `upstream` remote
+```
 git remote add upstream https://github.com/scikit-learn/scikit-learn.git
 ```
 
 #### Check remotes are there using `git remote -v`
+
+>my example
 ```bash
 origin	https://github.com/reshamas/scikit-learn.git (fetch)
 origin	https://github.com/reshamas/scikit-learn.git (push)
