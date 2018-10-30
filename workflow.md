@@ -57,7 +57,7 @@ git commit -m 'description for fix'
 ```
 4.  Run formatting tests (using flake8)
 ```bash
-flake8 file_name
+flake8 <file_name>
 ```
 5.  Run other tests?   (GMM, regression)
 6.  After all tests have passed, push update file(s) to feature branch
