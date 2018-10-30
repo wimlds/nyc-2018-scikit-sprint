@@ -1,16 +1,18 @@
 # Crash Course in Contributing to Scikit-learn:  Workflow
 
 
-### Set up work environment:  virtual environment
+## PART A:  Set-up work environment
+
+#### Set up virtual environment
 ```bash
 conda create -n sklearndev numpy scipy matplotlib pytest sphinx cython ipykernel
 ```
-### Activate virtual environment:  
+#### Activate virtual environment:  
 ```bash
 source activate sklearndev
 ```
 
-## PART A:  Set-up
+## PART B:  Set-up repository
 
 1.  Pick an issue to work on:  https://github.com/scikit-learn/scikit-learn/issues
 2.  Comment on issue with:  *I'm working on this*
@@ -38,11 +40,11 @@ git pull upstream master
 git fetch https://github.com/theirusername/reponame.git theirbranch:ourbranch
 ```
 
-## PART B:  Fixing issue
+## PART C:  Fixing issue
 - Explore and fix issue.  This will take the majority of time (!)
 
 
-## PART C:  Committing change 
+## PART D:  Committing change 
 
 - Make updates to file
 - Create feature branch
@@ -59,7 +61,7 @@ git commit -m 'description for fix'
 ```
 
 
-## PART D:  Run tests
+## PART E:  Run tests
 
 #### `flake8` formatting test
 - `flake8` tests for formatting errors
@@ -87,7 +89,7 @@ pytest <test_file>
 pytest /Users/reshamashaikh/scikit-learn/sklearn/metrics/tests/check_estimator_regression-test_draft.py
 ```
 
-## PART E:  Submit Pull Request (PR)
+## PART F:  Submit Pull Request (PR)
 #### After all tests have passed, push update file(s) to feature branch
 ```bash
 git push origin <feature_branch>
@@ -97,14 +99,16 @@ git push origin <feature_branch>
 Do this on GitHub
 
 
-## Part F:  Regression Tests on GitHub
+## Part G:  Regression Tests on GitHub
 These tests happen automatically after a PR has been submitted.
 
 <img src="images/reg_tests.png"  />
  
 ---
 
-## Formatting Tests
+## References
+
+### `flake8` Formatting Tests
 What is [flake8](https://medium.com/python-pandemonium/what-is-flake8-and-why-we-should-use-it-b89bd78073f2)?
 
 Can install using `pip` or `conda`:  
