@@ -22,6 +22,8 @@ source activate sklearndev
 
 ### Set up local repo  
 #### `git clone` your forked repo url.  
+
+>my example
 ```bash
 git clone https://github.com/reshamas/scikit-learn.git
 ```
