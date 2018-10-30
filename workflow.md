@@ -12,8 +12,8 @@ source activate sklearndev
 
 ## PART A:  Set-up
 
-1.  Pick an issue to work on
-2.  Comment on issue with "I'm working on this"
+1.  Pick an issue to work on:  https://github.com/scikit-learn/scikit-learn/issues
+2.  Comment on issue with:  *I'm working on this*
 3.  Fork repo:  https://github.com/scikit-learn/scikit-learn
 4.  Set up local repo ready:  
 Note:  for `git clone`, add your forked repo url.  
