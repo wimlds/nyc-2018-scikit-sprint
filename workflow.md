@@ -61,7 +61,7 @@ git fetch https://github.com/theirusername/reponame.git theirbranch:ourbranch
 
 ## PART D:  Fixing issue
 - Explore and fix issue.  This will take the majority of time (!)
-- Make updates to file
+- Make updates to file `<file_name>`
 
 ---
 
@@ -110,6 +110,7 @@ pytest <test_file>
 >example
 ```bash
 pytest /Users/reshamashaikh/scikit-learn/sklearn/metrics/tests/test_classifier.py
+pytest /Users/reshamashaikh/scikit-learn/sklearn/metrics/tests/test_mixture.py
 ```
 
 ---
