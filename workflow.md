@@ -58,9 +58,6 @@ git add <file_name>
 git commit -m 'description for fix'
 ```
 
-## PART C:  Committing change, Running tests, Submitting PR
-
-```
 
 ## PART D:  Run tests
 
