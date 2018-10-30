@@ -38,12 +38,12 @@ git pull upstream master
 git fetch https://github.com/theirusername/reponame.git theirbranch:ourbranch
 ```
 
-## PART B:  Fixing Issue
+## PART B:  Fixing issue
 
 1.  Explore and fix issue.  This will take the majority of time (!)
 
 
-## PART C:  Committing change and Submitting PR
+## PART C:  Committing change 
 
 1.  Make updates to file
 2.  Create feature branch
