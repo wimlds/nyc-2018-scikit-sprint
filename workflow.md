@@ -15,7 +15,8 @@ source activate sklearndev
 1.  Pick an issue to work on:  https://github.com/scikit-learn/scikit-learn/issues
 2.  Comment on issue with:  *I'm working on this*
 3.  Fork repo:  https://github.com/scikit-learn/scikit-learn
-4.  Set up local repo ready:  
+4.  Set up local repo  
+
 Note:  for `git clone`, add your forked repo url.  
 ```bash
 git clone https://github.com/reshamas/scikit-learn.git
