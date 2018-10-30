@@ -75,8 +75,8 @@ pytest sklearn
 ```
 
 #### Run tests on individual test files  
-- a)  create test file  
-- b)  run test file
+- Create test file  
+- Run test file
 
 ```bash
 pytest <test_file>
