@@ -93,6 +93,7 @@ flake8 <file_name>
 ```
 
 #### `pytest sklearn` tests
+- The [full test suite](http://scikit-learn.org/stable/developers/tips.html) takes fairly long to run
 - Run tests  
 ```bash
 pytest sklearn
