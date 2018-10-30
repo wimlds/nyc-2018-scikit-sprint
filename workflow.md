@@ -74,7 +74,7 @@ pytest <test_file>
 
 >example
 ```bash
-pytest /Users/reshamashaikh/scikit-learn/sklearn/metrics/check_estimator_regression-test_draft.py
+pytest /Users/reshamashaikh/scikit-learn/sklearn/metrics/tests/check_estimator_regression-test_draft.py
 ```
 
 6.  After all tests have passed, push update file(s) to feature branch
