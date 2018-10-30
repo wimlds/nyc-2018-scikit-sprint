@@ -39,21 +39,24 @@ git fetch https://github.com/theirusername/reponame.git theirbranch:ourbranch
 ```
 
 ## PART B:  Fixing issue
-
-1.  Explore and fix issue.  This will take the majority of time (!)
+- Explore and fix issue.  This will take the majority of time (!)
 
 
 ## PART C:  Committing change 
 
-1.  Make updates to file
-2.  Create feature branch
+- Make updates to file
+- Create feature branch
+
 ```bash
 git checkout -b <feature_branch>
 ```
-3.  Commit changes to branch
+
+- Commit changes to branch
+
 ```bash
 git add <file_name>
 git commit -m 'description for fix'
+```
 
 ## PART C:  Committing change, Running tests, Submitting PR
 
