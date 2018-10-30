@@ -1,11 +1,11 @@
 # Crash Course in Contributing to Scikit-learn:  Workflow
 
 
-## Set up work environment:  virtual environment
+### Set up work environment:  virtual environment
 ```bash
 conda create -n sklearndev numpy scipy matplotlib pytest sphinx cython ipykernel
 ```
-Activate virtual environment:  
+### Activate virtual environment:  
 ```bash
 source activate sklearndev
 ```
