@@ -78,8 +78,7 @@ git checkout -b <feature_branch>
 3.  Commit changes to branch
 ```bash
 git add <file_name>
-git commit -m 'description for fix'
-git push origin <feature_branch>
+git commit -m 'description for fix'h>
 ```
 4.  Run formatting tests (using flake8)
 ```bash
@@ -87,6 +86,10 @@ flake8 file_name
 ```
 5.  Run other tests?   (GMM, regression)
 6.  After all tests have passed, push update file(s) to feature branch
+```bash
+git push origin <feature_branc
+```
 7.  Submit PR
+do this on GitHub
 
 
