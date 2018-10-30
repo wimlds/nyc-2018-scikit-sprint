@@ -78,7 +78,7 @@ conda install flake8
 ```
 
 ### Running `flake8`
-`flake8` filename.py
+`flake8` <filename.py>
 ```bash
 flake8 /Users/reshamashaikh/scikit-learn/sklearn/metrics/scorer.py
 ```
