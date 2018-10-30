@@ -43,7 +43,7 @@ git fetch https://github.com/theirusername/reponame.git theirbranch:ourbranch
 1.  Explore and fix issue.  This will take the majority of time (!)
 
 
-## PART C:  Committing change, Running tests, Submitting PR
+## PART C:  Committing change and Submitting PR
 
 1.  Make updates to file
 2.  Create feature branch
@@ -54,17 +54,27 @@ git checkout -b <feature_branch>
 ```bash
 git add <file_name>
 git commit -m 'description for fix'
+
+## PART C:  Committing change, Running tests, Submitting PR
+
 ```
-4.  Run formatting tests (using flake8)
+
+## PART D:  Run tests
+
+#### `flake8` formatting test
+- `flake8` tests for formatting errors
+
 ```bash
 flake8 <file_name>
 ```
-5.  Run tests  
+
+#### `pytest sklearn` tests
+- Run tests  
 ```bash
 pytest sklearn
 ```
 
-5.  Run tests on individual test files  
+#### Run tests on individual test files  
 - a)  create test file  
 - b)  run test file
 
@@ -77,14 +87,17 @@ pytest <test_file>
 pytest /Users/reshamashaikh/scikit-learn/sklearn/metrics/tests/check_estimator_regression-test_draft.py
 ```
 
-6.  After all tests have passed, push update file(s) to feature branch
+## PART E:  Submit Pull Request (PR)
+#### After all tests have passed, push update file(s) to feature branch
 ```bash
 git push origin <feature_branch>
 ```
-7.  Submit PR  
+
+#### Submit PR  
 Do this on GitHub
 
-## Part D:  Regression Tests on GitHub
+
+## Part F:  Regression Tests on GitHub
 These tests happen automatically after a PR has been submitted.
 
 <img src="images/reg_tests.png"  />
