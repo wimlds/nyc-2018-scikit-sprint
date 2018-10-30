@@ -12,10 +12,13 @@ conda create -n sklearndev numpy scipy matplotlib pytest sphinx cython ipykernel
 source activate sklearndev
 ```
 
-## PART B:  Set-up repository
+## PART B:  Select issue
+- Pick an issue to work on:  https://github.com/scikit-learn/scikit-learn/issues
+- Comment on issue with:  *I'm working on this*
 
-1.  Pick an issue to work on:  https://github.com/scikit-learn/scikit-learn/issues
-2.  Comment on issue with:  *I'm working on this*
+## PART C:  Set-up repository
+
+
 3.  Fork repo:  https://github.com/scikit-learn/scikit-learn
 4.  Set up local repo  
 
@@ -40,11 +43,11 @@ git pull upstream master
 git fetch https://github.com/theirusername/reponame.git theirbranch:ourbranch
 ```
 
-## PART C:  Fixing issue
+## PART D:  Fixing issue
 - Explore and fix issue.  This will take the majority of time (!)
 
 
-## PART D:  Committing change 
+## PART E:  Committing change 
 
 - Make updates to file
 - Create feature branch
@@ -61,7 +64,7 @@ git commit -m 'description for fix'
 ```
 
 
-## PART E:  Run tests
+## PART F:  Run tests
 
 #### `flake8` formatting test
 - `flake8` tests for formatting errors
@@ -89,7 +92,7 @@ pytest <test_file>
 pytest /Users/reshamashaikh/scikit-learn/sklearn/metrics/tests/check_estimator_regression-test_draft.py
 ```
 
-## PART F:  Submit Pull Request (PR)
+## PART G:  Submit Pull Request (PR)
 #### After all tests have passed, push update file(s) to feature branch
 ```bash
 git push origin <feature_branch>
@@ -99,7 +102,7 @@ git push origin <feature_branch>
 Do this on GitHub
 
 
-## Part G:  Regression Tests on GitHub
+## Part H:  Regression Tests on GitHub
 These tests happen automatically after a PR has been submitted.
 
 <img src="images/reg_tests.png"  />
