@@ -50,15 +50,15 @@ git fetch https://github.com/theirusername/reponame.git theirbranch:ourbranch
 
 
 ## PART E:  Committing change 
-
 - Make updates to file
-- Create feature branch
+
+#### Create feature branch
 
 ```bash
 git checkout -b <feature_branch>
 ```
 
-- Commit changes to branch
+#### Commit changes to branch
 
 ```bash
 git add <file_name>
