@@ -27,7 +27,7 @@ scorer.py:190:80: E501 line too long (87 > 79 characters)
 
 # Workflow for Open Source
 
-## Set up work environment:  "virtual environment"
+## Set up work environment:  virtual environment
 ```bash
 conda create -n sklearndev numpy scipy matplotlib pytest sphinx cython ipykernel
 ```
