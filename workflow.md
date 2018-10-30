@@ -23,13 +23,25 @@ scorer.py:189:80: E501 line too long (85 > 79 characters)
 scorer.py:190:80: E501 line too long (87 > 79 characters)
 ```
 
+---
+
 # Workflow for Open Source
+
+## Set up work environment:  "virtual environment"
+```python
+conda create -n sklearndev numpy scipy matplotlib pytest sphinx cython ipykernel
+```
+Activate virtual environment:  
+```python
+source activate sklearndev
+```
 
 ## PART A:  Set-up
 
 1.  Pick an issue to work on
 2.  Comment on issue with "I'm working on this"
-3.  Set up local repo ready:  
+3.  Fork repo:  https://github.com/scikit-learn/scikit-learn
+4.  Set up local repo ready:  
 Note:  for `git clone`, add your forked repo url.  
 ```python
 git clone https://github.com/reshamas/scikit-learn.git
@@ -42,12 +54,23 @@ git remote add upstream https://github.com/scikit-learn/scikit-learn.git
 1.  Explore and fix issue.  This will take the majority of time (!)
 
 
-## PART C:  Committing Change, running tests, submitting PR
+## PART C:  Committing change, Running tests, Submitting PR
 
 1.  Make updates to file
 2.  Create feature branch
+```python
+git checkout -b <feature_branch>
+```
 3.  Commit changes to branch
+```python
+git add <file_name>
+git commit -m 'description for fix'
+git push origin <feature_branch>
+```
 4.  Run formatting tests (using flake8)
+```python
+flake8 file_name
+```
 5.  Run other tests?   (GMM, regression)
 6.  After all tests have passed, push update file(s) to feature branch
 7.  Submit PR
