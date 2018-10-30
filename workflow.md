@@ -1,31 +1,5 @@
+# Crash Course in Contributing to Scikit-learn:  Workflow
 
-
-## Formatting Tests
-What is [flake8](https://medium.com/python-pandemonium/what-is-flake8-and-why-we-should-use-it-b89bd78073f2)?
-
-Can install using `pip` or `conda`:  
-Example:  
-```python
-conda install flake8 
-```
-
-### Running `flake8`
-`flake8` filename.py
-```bash
-flake8 /Users/reshamashaikh/scikit-learn/sklearn/metrics/scorer.py
-```
-
-When there are formatting issues, here's an example of what it will return:
-```bash
-(sklearndev) % flake8 scorer.py
-scorer.py:186:39: E225 missing whitespace around operator
-scorer.py:189:80: E501 line too long (85 > 79 characters)
-scorer.py:190:80: E501 line too long (87 > 79 characters)
-```
-
----
-
-# Workflow for Open Source
 
 ## Set up work environment:  virtual environment
 ```bash
@@ -91,5 +65,31 @@ git push origin <feature_branch>
 ```
 7.  Submit PR
 do this on GitHub
+
+---
+
+## Formatting Tests
+What is [flake8](https://medium.com/python-pandemonium/what-is-flake8-and-why-we-should-use-it-b89bd78073f2)?
+
+Can install using `pip` or `conda`:  
+Example:  
+```python
+conda install flake8 
+```
+
+### Running `flake8`
+`flake8` filename.py
+```bash
+flake8 /Users/reshamashaikh/scikit-learn/sklearn/metrics/scorer.py
+```
+
+When there are formatting issues, here's an example of what it will return:
+```bash
+(sklearndev) % flake8 scorer.py
+scorer.py:186:39: E225 missing whitespace around operator
+scorer.py:189:80: E501 line too long (85 > 79 characters)
+scorer.py:190:80: E501 line too long (87 > 79 characters)
+```
+
 
 
