@@ -63,8 +63,8 @@ flake8 file_name
 ```bash
 git push origin <feature_branch>
 ```
-7.  Submit PR
-do this on GitHub
+7.  Submit PR  
+Do this on GitHub
 
 ## Part D:  Regression Tests on GitHub
 These tests happen automatically after a PR has been submitted.
