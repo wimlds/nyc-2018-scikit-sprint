@@ -59,7 +59,24 @@ git commit -m 'description for fix'
 ```bash
 flake8 <file_name>
 ```
-5.  Run other tests?   (GMM, regression)
+5.  Run tests  
+```bash
+pytest sklearn
+```
+
+5.  Run tests on individual test files  
+- a)  create test file  
+- b)  run test file
+
+```bash
+pytest <test_file>
+```
+
+>example
+```bash
+pytest /Users/reshamashaikh/scikit-learn/sklearn/metrics/check_estimator_regression-test_draft.py
+```
+
 6.  After all tests have passed, push update file(s) to feature branch
 ```bash
 git push origin <feature_branch>
