@@ -1,6 +1,6 @@
 # Crash Course in Contributing to Scikit-learn:  Workflow
 
-
+---
 ## PART A:  Set-up work environment
 
 #### Set up virtual environment
@@ -12,9 +12,13 @@ conda create -n sklearndev numpy scipy matplotlib pytest sphinx cython ipykernel
 source activate sklearndev
 ```
 
+---
+
 ## PART B:  Select issue
 - Pick an issue to work on:  https://github.com/scikit-learn/scikit-learn/issues
 - Comment on issue with:  *I'm working on this*
+
+---
 
 ## PART C:  Set-up repository
 
@@ -53,9 +57,13 @@ git pull upstream master
 git fetch https://github.com/theirusername/reponame.git theirbranch:ourbranch
 ```
 
+---
+
 ## PART D:  Fixing issue
 - Explore and fix issue.  This will take the majority of time (!)
 - Make updates to file
+
+---
 
 ## PART E:  Committing change 
 
@@ -72,6 +80,7 @@ git add <file_name>
 git commit -m 'description for fix'
 ```
 
+---
 
 ## PART F:  Run tests
 
@@ -88,8 +97,10 @@ flake8 <file_name>
 pytest sklearn
 ```
 
+### Create test file
+
 #### Run tests on individual test files  
-- Create test file  
+- Create test file under `tests` directory
 - Run test file
 
 ```bash
@@ -98,8 +109,10 @@ pytest <test_file>
 
 >example
 ```bash
-pytest /Users/reshamashaikh/scikit-learn/sklearn/metrics/tests/check_estimator_regression-test_draft.py
+pytest /Users/reshamashaikh/scikit-learn/sklearn/metrics/tests/test_classifier.py
 ```
+
+---
 
 ## PART G:  Submit Pull Request (PR)
 #### After all tests have passed, push update file(s) to feature branch
@@ -110,6 +123,7 @@ git push origin <feature_branch>
 #### Submit PR  
 Do this on GitHub
 
+---
 
 ## Part H:  Regression Tests on GitHub
 These tests happen automatically after a PR has been submitted.
