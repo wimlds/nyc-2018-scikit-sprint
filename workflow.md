@@ -52,7 +52,7 @@ upstream	https://github.com/scikit-learn/scikit-learn.git (push)
 git pull upstream master
 ```
 
-### Fetch someone else's PR:
+### (to fetch) someone else's PR:
 ```bash
 git fetch https://github.com/theirusername/reponame.git theirbranch:ourbranch
 ```
