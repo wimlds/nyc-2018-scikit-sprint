@@ -118,12 +118,16 @@ pytest /Users/reshamashaikh/scikit-learn/sklearn/metrics/tests/test_mixture.py
 
 ## PART G:  Submit Pull Request (PR)
 #### After all tests have passed, push update file(s) to feature branch
+- `test_file` should be committed to feature branch as well
+
 ```bash
+git add <test_file>
+git commit -m 'description for test file'
 git push origin <feature_branch>
 ```
 
 #### Submit PR  
-Do this on GitHub
+Do this on GitHub.
 
 ---
 
