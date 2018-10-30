@@ -69,7 +69,7 @@ do this on GitHub
 ## Part D:  Regression Tests on GitHub
 These tests happen automatically after a PR has been submitted.
 
-<img src="images/reg_tests.jpg"  />
+<img src="images/reg_tests.png"  />
  
 ---
 
