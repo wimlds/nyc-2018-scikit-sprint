@@ -1,5 +1,7 @@
 # Crash Course in Contributing to Scikit-learn:  Workflow
 
+PR = Pull Request
+
 ---
 
 ## PART A:  Set-up work environment
@@ -76,10 +78,11 @@ git checkout -b <feature_branch>
 ```
 
 #### Commit changes to branch
-
+Please include **(#wimlds)** in your PR so we can track them.  
+ 
 ```bash
 git add <file_name>
-git commit -m 'description for fix'
+git commit -m 'description for fix (#wimlds)'
 ```
 
 ---
@@ -118,7 +121,7 @@ pytest /Users/reshamashaikh/scikit-learn/sklearn/metrics/tests/test_mixture.py
 
 ---
 
-## PART G:  Submit Pull Request (PR)
+## PART G:  Submit Pull Request
 #### After all tests have passed, push update file(s) to feature branch
 - `test_file` should be committed to feature branch as well
 
