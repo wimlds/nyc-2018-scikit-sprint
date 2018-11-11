@@ -159,6 +159,8 @@ These tests happen automatically after a PR has been submitted.
 - You need **2 approvals for a merge**
 
 
+---
+
 ## References
 
 ### `flake8` Formatting Tests
