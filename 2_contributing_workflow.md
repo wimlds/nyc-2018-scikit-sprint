@@ -17,6 +17,13 @@ conda create -n sklearndev numpy scipy matplotlib pytest sphinx cython ipykernel
 ```bash
 source activate sklearndev
 ```
+#### Build and run tests
+```bash
+cd scikit-learn
+pip install -e .
+```
+Note:  this will overwrite existing installations
+Reference:  ["Editable" Installs](https://pip.pypa.io/en/stable/reference/pip_install/#examples)
 
 ---
 
@@ -145,6 +152,14 @@ These tests happen automatically after a PR has been submitted.
 <img src="images/reg_tests.png"  />
  
 ---
+
+## Part I:  Next Steps
+- Wait for reviews (be patient)
+- Address review comments in the same branch
+- Pushing to your fork will update the PR
+- Reviewers will "approve" the PR or change title to [MRG + 1]
+- You need **2 approvals for a merge**
+
 
 ## References
 
