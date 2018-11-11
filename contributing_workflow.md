@@ -1,6 +1,7 @@
 # Crash Course in Contributing to Scikit-learn:  Workflow
 
 ---
+
 ## PART A:  Set-up work environment
 
 #### Set up virtual environment
