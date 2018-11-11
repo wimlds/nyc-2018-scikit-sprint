@@ -167,18 +167,23 @@ These tests happen automatically after a PR has been submitted.
 What is [flake8](https://medium.com/python-pandemonium/what-is-flake8-and-why-we-should-use-it-b89bd78073f2)?
 
 Can install using `pip` or `conda`:  
-Example:  
+
+>my example
 ```python
 conda install flake8 
 ```
 
 ### Running `flake8`
 `flake8` <filename.py>
+
+>my example
 ```bash
 flake8 /Users/reshamashaikh/scikit-learn/sklearn/metrics/scorer.py
 ```
 
-When there are formatting issues, here's an example of what it will return:
+When there are formatting issues, here's an example of what it will return:  
+
+>my example
 ```bash
 (sklearndev) % flake8 scorer.py
 scorer.py:186:39: E225 missing whitespace around operator
