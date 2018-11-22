@@ -29,6 +29,13 @@ source activate sklearndev
 git clone https://github.com/reshamas/scikit-learn.git
 ```
 
+#### `cd scikit-learn` into your folder
+
+>my example
+```bash
+cd scikit-learn
+```
+
 #### Add `upstream` remote
 ```
 git remote add upstream https://github.com/scikit-learn/scikit-learn.git
