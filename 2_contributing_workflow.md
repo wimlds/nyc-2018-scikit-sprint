@@ -15,23 +15,9 @@ conda create -n sklearndev numpy scipy matplotlib pytest sphinx cython ipykernel
 ```bash
 source activate sklearndev
 ```
-#### Build and run tests
-```bash
-cd scikit-learn
-pip install -e .
-```
-Note:  this will overwrite existing installations
-Reference:  ["Editable" Installs](https://pip.pypa.io/en/stable/reference/pip_install/#examples)
-
 ---
 
-## PART B:  Select issue
-- Pick an issue to work on:  https://github.com/scikit-learn/scikit-learn/issues
-- Comment on issue with:  *I'm working on this*
-
----
-
-## PART C:  Set-up repository
+## PART B:  Set-up repository
 
 ### Fork repo:  https://github.com/scikit-learn/scikit-learn
 
@@ -67,6 +53,21 @@ git pull upstream master
 ```bash
 git fetch https://github.com/theirusername/reponame.git theirbranch:ourbranch
 ```
+
+
+#### Build and run tests
+```bash
+cd scikit-learn
+pip install -e .
+```
+Note:  this will overwrite existing installations
+Reference:  ["Editable" Installs](https://pip.pypa.io/en/stable/reference/pip_install/#examples)
+
+---
+
+## PART C:  Select issue
+- Pick an issue to work on:  https://github.com/scikit-learn/scikit-learn/issues
+- Comment on issue with:  *I'm working on this*
 
 ---
 
