@@ -64,7 +64,6 @@ git fetch https://github.com/theirusername/reponame.git theirbranch:ourbranch
 
 #### Build and run tests
 ```bash
-cd scikit-learn
 pip install -e .
 ```
 Note:  this will overwrite existing installations
