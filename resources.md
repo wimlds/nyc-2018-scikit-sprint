@@ -1,7 +1,7 @@
 # Resources
 
 - [Closing Issues on GitHub Using Keywords](https://help.github.com/articles/closing-issues-using-keywords/)
-- [flake8](https://medium.com/python-pandemonium/what-is-flake8-and-why-we-should-use-it-b89bd78073f2)?
+- [flake8](https://medium.com/python-pandemonium/what-is-flake8-and-why-we-should-use-it-b89bd78073f2)
 
 ---
 
