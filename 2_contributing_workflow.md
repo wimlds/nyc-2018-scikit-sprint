@@ -171,7 +171,11 @@ Do this on GitHub.
 These tests happen automatically after a PR has been submitted.
 
 <img src="images/reg_tests.png"  />
- 
+
+
+This is what it looks like when **all the checks** have passed!  
+<img src="images/checks_passed.png" />
+
 ---
 
 ## Part I:  Next Steps
