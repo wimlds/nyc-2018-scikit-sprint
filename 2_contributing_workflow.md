@@ -180,12 +180,13 @@ These tests happen automatically after a PR has been submitted:
 
 
 
-This is what it looks like when **all the checks** have passed!
+This is what it looks like when **all the checks** have passed!  
+
 <p>
 </p>
 
 <kbd>
-<img src="images/checks_passed.png" border="5"/>
+<img src="images/checks_passed.png" border="5" width="80%" height="80%"/>
 </kbd>
 
 ---
