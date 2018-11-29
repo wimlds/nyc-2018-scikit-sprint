@@ -187,7 +187,7 @@ This is what it looks like when **all the checks** have passed!
 </p>
 
 <kbd>
-<img src="images/checks_passed.png" border="5" width="80%" height="80%"/>
+<img src="images/checks_passed.png" border="5" width="70%" height="70%"/>
 </kbd>
 
 ---
@@ -203,7 +203,7 @@ This is what a **merged** icon looks like:
 <p>
 </p>
 <kbd>
-<img src="images/checks_passed.png" border="5" width="80%" height="80%"/>
+<img src="images/merged.png" border="5" width="70%" height="70%"/>
 </kbd>
 
 ---
