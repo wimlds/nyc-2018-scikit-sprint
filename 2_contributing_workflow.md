@@ -173,9 +173,9 @@ These tests happen automatically after a PR has been submitted.
 <p>
 </p>
 
-<table><tr><td>
+<kbd>
 <img src="images/reg_tests.png"  border="5"/>
-</td></tr></table>
+</kbd>
 
 
 
@@ -183,14 +183,10 @@ These tests happen automatically after a PR has been submitted.
 This is what it looks like when **all the checks** have passed!  
 <p>
 </p>
+
+<kbd>
 <img src="images/checks_passed.png" border="5"/>
-
-<table><tr><td>
-<img src="images/checks_passed.png" border="5"/>
-</td></tr></table>
-
-
-<kbd><img src="images/checks_passed.png" border="5"/> </kbd>
+</kbd>
 
 ---
 
