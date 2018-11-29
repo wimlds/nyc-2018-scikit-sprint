@@ -118,7 +118,7 @@ flake8 <file_name>
 pytest sklearn
 ```
 
-This is an example of the output of a *successful* `pytest sklearn`:  [pytest_sklearn_output](pytest_sklearn_output.md)
+This is an **example** of the output of a *successful* `pytest sklearn`:  [pytest_sklearn_output](pytest_sklearn_output.md)
 
 ### Create test file
 
@@ -136,7 +136,7 @@ pytest /Users/reshamashaikh/scikit-learn/sklearn/metrics/tests/test_classifier.p
 pytest /Users/reshamashaikh/scikit-learn/sklearn/metrics/tests/test_mixture.py
 ```
 
-This is an example of the output of a *successful* `pytest test_classification.py`:  
+This is an **example** of the output of a *successful* `pytest test_classification.py`:  
 ```bash
 (sklearndev) % pytest sklearn/metrics/tests/test_classification.py
 ============================================================ test session starts ============================================================
