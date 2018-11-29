@@ -192,9 +192,7 @@ This is what it looks like when **all the checks** have passed!
 </kbd>
 
 
-
-<img src="images/checks_passed.png" border="5" width="70%" height="70%"/>
-
+ 
 
 ---
 
