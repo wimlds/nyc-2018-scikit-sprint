@@ -179,7 +179,8 @@ These tests happen automatically after a PR has been submitted:
 
 
 
-
+<p>
+</p>
 This is what it looks like when **all the checks** have passed!  
 
 <p>
@@ -198,6 +199,12 @@ This is what it looks like when **all the checks** have passed!
 - Reviewers will "approve" the PR or change title to [MRG + 1]
 - You need **2 approvals for a merge**
 
+This is what a **merged** icon looks like:   
+<p>
+</p>
+<kbd>
+<img src="images/checks_passed.png" border="5" width="80%" height="80%"/>
+</kbd>
 
 ---
 
