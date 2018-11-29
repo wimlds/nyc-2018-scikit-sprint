@@ -174,13 +174,14 @@ These tests happen automatically after a PR has been submitted:
 </p>
 
 <kbd>
-<img src="images/reg_tests.png"  width="80%" height="80%" />/>
+<img src="images/reg_tests.png"  width="80%" height="80%" />
 </kbd>
 
 
 
 <p>
 </p>
+
 This is what it looks like when **all the checks** have passed!  
 
 <p>
