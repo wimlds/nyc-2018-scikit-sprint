@@ -191,6 +191,11 @@ This is what it looks like when **all the checks** have passed!
 <img src="images/checks_passed.png" border="5" width="70%" height="70%"/>
 </kbd>
 
+
+
+<img src="images/checks_passed.png" border="5" width="70%" height="70%"/>
+
+
 ---
 
 ## Part I:  Next Steps
