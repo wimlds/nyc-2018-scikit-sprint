@@ -185,6 +185,13 @@ This is what it looks like when **all the checks** have passed!
 </p>
 <img src="images/checks_passed.png" border="5"/>
 
+<table><tr><td>
+<img src="images/checks_passed.png" border="5"/>
+</td></tr></table>
+
+
+<kbd><img src="images/checks_passed.png" border="5"/> </kbd>
+
 ---
 
 ## Part I:  Next Steps
