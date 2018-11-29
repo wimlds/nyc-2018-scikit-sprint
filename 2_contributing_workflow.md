@@ -170,11 +170,16 @@ Do this on GitHub.
 ## Part H:  Regression Tests on GitHub
 These tests happen automatically after a PR has been submitted.
 
-<img src="images/reg_tests.png"  />
+<p>
+</p>
+
+<img src="images/reg_tests.png"  border="5"/>
 
 
 This is what it looks like when **all the checks** have passed!  
-<img src="images/checks_passed.png" />
+<p>
+</p>
+<img src="images/checks_passed.png" border="5"/>
 
 ---
 
