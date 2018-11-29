@@ -118,6 +118,19 @@ flake8 <file_name>
 pytest sklearn
 ```
 
+This is an example of the output of a *successful* `pytest sklearn`:  
+```bash
+(sklearndev) % pytest sklearn/metrics/tests/test_classification.py
+============================================================ test session starts ============================================================
+platform darwin -- Python 3.7.1, pytest-4.0.0, py-1.7.0, pluggy-0.8.0
+rootdir: /Users/reshamashaikh/scikit-learn, inifile: setup.cfg
+collected 75 items                                                                                                                          
+
+sklearn/metrics/tests/test_classification.py ...........................................................................              [100%]
+
+=================================================== 75 passed, 3 warnings in 9.49 seconds ===================================================
+(sklearndev) %
+```
 ### Create test file
 
 #### Run tests on individual test files  
