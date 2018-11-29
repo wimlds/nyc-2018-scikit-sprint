@@ -213,4 +213,4 @@ This is what a **merged** icon looks like:
 ---
 
 ## References
-- [`flake8`](resouces.md)
+- [`flake8`](resources.md)
