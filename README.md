@@ -33,6 +33,8 @@
 
 **Thank you for helping make this a welcoming, friendly community for all.**  Please read the full [**Code of Conduct**](https://github.com/WiMLDS/starter-kit/wiki/Code-of-conduct) before participating.  
 
+CoC summary is adopted from [NumFOCUS](https://numfocus.org/code-of-conduct)
+
 ---
 ## The Team
 
