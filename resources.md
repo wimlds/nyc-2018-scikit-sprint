@@ -5,6 +5,12 @@
 
 ---
 
+#### doctest 
+- reference:  https://docs.python.org/3.7/library/doctest.html#doctest.ELLIPSIS
+- explanation:  https://github.com/scikit-learn/scikit-learn/pull/12799#discussion_r242147232
+
+---
+
 #### `flake8` Formatting Tests
 Can install using `pip` or `conda`:  
 
