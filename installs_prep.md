@@ -1,4 +1,4 @@
-# Pre-workshop Requirements
+# Software Requirements for Sprint
 
 Q:  what version of Anaconda?
 
@@ -12,13 +12,11 @@ Install [Anaconda](https://docs.anaconda.com/anaconda/install/)
 - [Linux](https://docs.anaconda.com/anaconda/install/linux/)
 
 ## Jupyter Notebook
-Jupyter Notebook is included in the Anaconda installation.  Review Jupyter Notebook commands
+Jupyter Notebook is included in the Anaconda installation.  Review Jupyter Notebook commands.
 
-## Instal Git
-- Mac:  
-	- [Git](https://git-scm.com/download/mac)
-- Windows:  
-	- [Git for Windows (Git Bash)](https://gitforwindows.org/)
+## Install Git
+- [Mac: git](https://www.atlassian.com/git/tutorials/install-git#mac-os-x)
+- [Linux git](https://www.atlassian.com/git/tutorials/install-git#linux)
   
 - Confirm Git is installed by typing `git --version` on your terminal
 
