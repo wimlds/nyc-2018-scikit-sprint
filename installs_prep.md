@@ -1,16 +1,18 @@
 # Pre-workshop Requirements
 
+Q:  what version of Anaconda?
+
 Installing Software and Setting up Virtual Environment
 have Python installed via Anaconda. (Anaconda includes Jupyter Notebook)
 
 
 ## Install Python via Anaconda
-
-1.  Install [Anaconda](https://docs.anaconda.com/anaconda/install/)
-- [Windows](https://docs.anaconda.com/anaconda/install/windows/)
+Install [Anaconda](https://docs.anaconda.com/anaconda/install/)
 - [Mac](https://docs.anaconda.com/anaconda/install/mac-os/)
 - [Linux](https://docs.anaconda.com/anaconda/install/linux/)
 
+## Jupyter Notebook
+Jupyter Notebook is included in the Anaconda installation.  Review Jupyter Notebook commands
 
 ## Instal Git
 - Mac:  
