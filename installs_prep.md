@@ -20,11 +20,11 @@ Jupyter Notebook is included in the Anaconda installation.  Review Jupyter Noteb
   
 - Confirm Git is installed by typing `git --version` on your terminal
 
-## Step 3:  Sign up for a GitHub Account
+## Sign up for a GitHub Account
 - [github.com](https://github.com/)
 - Save your user ID and password somewhere you can easily find it
 
-## Gitter
+## Join Gitter
 Join gitter using your GitHub ID:  gitter.im/scikit-learn/wimlds 
   
 ## Choose a Graphical Editor
