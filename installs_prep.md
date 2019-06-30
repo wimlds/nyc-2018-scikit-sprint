@@ -36,5 +36,17 @@ Join gitter using your GitHub ID:  gitter.im/scikit-learn/wimlds
  	* [Notepad++](https://notepad-plus-plus.org/) (for Windows)
   
  
-## Set up Virtual Environment (to save time)
+## Set up Virtual Environment
+
+```bash
+# Create virtual environment
+conda create --name sklearndev numpy scipy matplotlib pytest sphinx cython ipykernel
+
+# To activate this environment, use
+conda activate sklearndev
+
+# To deactivate an active environment, use
+conda deactivate
+```
+
 
