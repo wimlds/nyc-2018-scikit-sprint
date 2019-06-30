@@ -49,4 +49,15 @@ conda activate sklearndev
 conda deactivate
 ```
 
+---
+
+# Scikit-learn Requirements for Sprint
+
+1) Read thru "Contributing" documentation
+- http://scikit-learn.org/stable/developers/contributing.html
+- it is approximately 16 pages
+
+2) Review Open Issues
+go through some Issues and become familiar with them
+https://github.com/scikit-learn/scikit-learn/issues
 
